@@ -1,7 +1,7 @@
 import time
 
 username = "Aiman"
-password = "secretpassword"
+password = "anypasswordthatiwant"
 
 username_input = input("Username: ")
 password_input = input("Password: ")
@@ -11,7 +11,7 @@ if username_input == username and password_input == password:
     print("Please wait")
     time.sleep(5)
     print("Um please wait... Loading...")
-    time.sleep(1)
+    time.sleep(3)
     print("...still Loading XD")
     time.sleep(1)
     print("...")
