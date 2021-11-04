@@ -12,6 +12,4 @@ Nume = A + C
 sum = (A / B) + (C/D)
 
 print(f"{x} / {y} + {a} / {b} = {Nume} / {B}")
-
-
-
+print("Testting.....")
